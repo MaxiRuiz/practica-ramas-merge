@@ -12,5 +12,3 @@ function agregarALaPantalla(value) {
     document.getElementById('pantalla').value = '';
   }
   
-
-  /* Prueba */
